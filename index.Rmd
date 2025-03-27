@@ -1,6 +1,6 @@
 ---
 title: "JSC370 Final Project"
-author: "Kenta Ploch"
+author: "Rayce Ramsay"
 output: 
     html_document:
         toc: TRUE
